@@ -1,0 +1,32 @@
+/* section div div p{
+    color: red;
+} */
+
+/* descendent */
+/* section p{
+    color: red;
+} */
+
+/* child */
+/* section>div>div>h2{
+background-color: aqua;
+} */
+
+/* section>div>h2{
+    background-color: aqua;
+    } */
+
+    /* adjustent sibling */
+/* 
+    section + article{
+        border: 2px solid black;
+    } */
+
+    /* article + section{
+        background-color: aqua;
+    } */
+
+    /* general  */
+    article ~ section{
+        background-color: brown;
+    }

@@ -1,0 +1,40 @@
+
+/* element selector */
+/* h1{
+    color: blue;
+}
+
+p{
+    background-color: aqua;
+} */
+
+/* id */
+/* #special{
+    color: crimson;
+}
+
+.heading{
+    background-color: blue;
+}
+ 
+/* attribute */
+
+/* a[href="http://facebook.com"]{
+    color: red;
+}  */
+
+*{
+    /* border: 2px solid orange; */
+    /* margin: 0;
+    padding: 0; */
+}
+
+/* body{
+    border: 2px solid green;
+} */
+
+div{
+    background-color: blue;
+    border: 2px solid black;
+    width: 300px;
+}
