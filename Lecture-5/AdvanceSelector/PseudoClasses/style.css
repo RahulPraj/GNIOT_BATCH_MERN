@@ -1,0 +1,49 @@
+.container{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    border: 2px solid black;
+}
+
+/* hover */
+.container:hover{
+    background-color: blue;
+    border-radius: 50%;
+}
+
+/* active */
+a[href="http://google.com"]:active{
+    color: yellow;
+}
+/* visited */
+a[href="http://facebook.com"]:visited{
+    color: red;
+}
+
+/* focus */
+input{
+    background-color: antiquewhite;
+}
+
+input:hover{
+    background-color: aqua;
+}
+
+input:focus{
+    background-color: burlywood;
+}
+
+/* li:nth-of-type(odd){
+    color: red;
+}
+li:nth-of-type(even){
+    color: blue;
+}
+
+li:nth-of-type(4){
+    background-color: brown;
+} */
+
+li:nth-of-type(2n+5){
+    color: red;
+}

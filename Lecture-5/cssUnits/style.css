@@ -1,0 +1,20 @@
+#para{
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+}
+
+.ab p{
+    font-size: 30%;
+}
+
+.ab{
+    font-size: 200px;
+}
+
+
+div{
+    width: 50vw;
+    height: 50vh;
+    background-color: aqua;
+}

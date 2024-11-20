@@ -1,0 +1,25 @@
+/* p::first-letter{
+    color: red;
+    font-size: 30px;
+} */
+
+p::first-line{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+}
+
+/* a[href="http://google.com"]::first-letter{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+
+} */
+
+a[href="http://google.com"]::before{
+    content: '\1F4F1 ';
+}
+
+a[href="http://google.com"]::after{
+    content: '\1F4F1 ';
+}

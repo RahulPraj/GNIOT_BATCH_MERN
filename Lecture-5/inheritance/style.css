@@ -1,0 +1,17 @@
+ol{
+    font-size: 30px;
+    color: red;
+    /* background-color:blue ; */
+    border: 2px solid black;
+}
+
+ol>li{
+    color: green;
+    font-size: 40px;
+    border: 2px solid black;
+
+}
+
+a[href ^= "http"]{
+    font-size: 50px;
+}
