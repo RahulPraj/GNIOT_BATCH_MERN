@@ -1,0 +1,13 @@
+div{
+    width: 80vw;
+    height: 50px;
+    border: 2px solid black;
+
+}
+p{
+    white-space: nowrap;
+    overflow: hidden;
+    overflow: scroll;
+    /* text-overflow: clip; */
+    text-overflow: ellipsis;
+}

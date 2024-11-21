@@ -1,0 +1,21 @@
+div{
+    width: 200px;
+    height: 150px;
+    background-color: aqua;
+    /* margin: 100px; shortand */
+    /* margin-top: 200px;
+    margin-right: 100px;
+    margin-left: 50px;
+    margin-bottom: 140px; */
+    /* margin: 100px 50px; */
+    /* margin: 100px 50px 150px; */
+    border: 2px dashed black;
+    padding: 30px;
+    margin: 20px auto;
+}
+
+span{
+    width: 200px;
+    height: 150px;
+    background-color: rgb(255, 0, 0);
+}
