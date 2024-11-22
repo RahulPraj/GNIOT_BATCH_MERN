@@ -35,10 +35,20 @@ div{
 } */
 
 /* fixed */
-#fixed{
+/* #fixed{
     position: relative;
 }
 #fixed #middle{
     position: fixed;
     top: 50px;
+} */
+
+/* sticky */
+#sticky{
+    height: 700px;
+    border: 2px solid black;
+}
+#sticky #middle{
+    position: sticky;
+    top: 100px;
 }

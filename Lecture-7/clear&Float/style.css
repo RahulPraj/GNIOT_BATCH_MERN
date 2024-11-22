@@ -1,0 +1,10 @@
+img{
+    width: 200px;
+    /* float: left; */
+    float: right;
+}
+
+p:nth-of-type(2){
+    clear: left;
+    /* clear: right; */
+}
