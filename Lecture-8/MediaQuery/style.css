@@ -1,0 +1,101 @@
+/* body{
+    width: 100%;
+    height: 100%;
+    
+} */
+
+section{
+    width: 80vw;
+    height: 100vh;
+    border: 2px solid black;
+    background-color: antiquewhite;
+    margin: 20px auto;
+}
+h1{
+    text-align: center;
+    font-size: 60px;
+}
+
+/* p{
+    font-size: 20px;
+} */
+
+/* @media screen and (width: 800px){
+    h1{
+        font-size: 45px;
+        color: blue;
+    }
+} */
+
+/* @media screen and (max-width: 800px){
+    h1{
+        font-size: 45px;
+        color: blue;
+    }
+} */
+
+/* @media screen and (min-width: 800px){
+    h1{
+        font-size: 45px;
+        color: blue;
+    }
+} */
+
+
+/* for max-width */
+/* @media screen and (max-width:1200px){
+    section{
+        background-color: burlywood;
+    }
+    
+    h1{
+        font-size: 50px;
+        color: blue;
+        
+    }
+}
+
+@media screen and (max-width:991px){
+    section{
+        background-color: darkgray;
+    }
+
+    h1{
+        font-size: 40px;
+        color: rgb(0, 255, 60);
+    }
+}
+
+@media screen and (max-width:768px){
+    section{
+        background-color: rgb(242, 156, 156);
+    }
+
+    h1{
+        font-size: 35px;
+        color: rgb(234, 0, 255);
+    }
+}
+
+@media screen and (max-width:576px){
+    section{
+        background-color: rgb(230, 228, 203);
+    }
+
+    h1{
+        font-size: 35px;
+        color: rgb(255, 132, 0);
+    }
+} */
+
+
+@media screen and (orientation:landscape){
+    section{
+        background-color: rgb(230, 228, 203);
+    }
+
+    h1{
+        font-size: 45px;
+        color: rgb(255, 132, 0);
+    }
+}
