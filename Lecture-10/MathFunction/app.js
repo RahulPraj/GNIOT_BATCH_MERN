@@ -1,5 +1,5 @@
 
-// console.log(Math.PI);
+console.log(Math.PI);
 // console.log(Math.E);
 // console.log(Math.LN2);
 // console.log(Math.sqrt(25));
@@ -12,7 +12,7 @@
 
 // console.log(Math.random());
 // console.log(Math.random()*10);
-// console.log(Math.floor((Math.random()*10)));
+console.log(Math.floor((Math.random()*10)));
 // console.log(Math.floor((Math.random()*6 + 22)));
 
 // == vs ====
@@ -35,7 +35,7 @@ false
 
 
 // typeOf()
-ypeof(1)
+typeof(1)
 'number'
 typeof("rahul")
 'string'

@@ -7,14 +7,16 @@
 // console.log(userName);
 
 // ----------------------
-// let firstName = "rahul";
-// let lastName = "prajapti";
+let firstName = "rahul";
+let lastName = "prajapti";
 // // let  space = " ";
+
+console.log(firstName + lastName);
 
 // // console.log(firstName+ space + lastName);
 // // console.log(firstName+ " " + lastName);
-// let fullName = `my name is  ${firstName} ${lastName} . how are you? `
-// console.log(fullName)
+ let fullName = `my name is ${firstName} ${lastName}. how are you?`
+console.log(fullName)
 
 // number
 let a = 10;
@@ -35,6 +37,6 @@ let e = 25
 
 // ---------------------------
 // max and min value
-console.log(Number.MAX_SAFE_INTEGER);
-console.log(Number.MIN_SAFE_INTEGER);
+// console.log(Number.MAX_SAFE_INTEGER);
+// console.log(Number.MIN_SAFE_INTEGER);
 

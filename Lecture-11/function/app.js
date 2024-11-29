@@ -8,3 +8,4 @@ function sum(){
 
 let ans = sum();
 console.log(ans);
+
